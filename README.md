@@ -27,7 +27,6 @@ To use this project, you will need the following dependencies:
 - Jupyter Notebook (optional, for running project notebooks)
 - Pandas
 - Numpy
-- Matplotlib
 - Yahoo Finance API (for data retrieval)
 
 You can install these dependencies using pip:
